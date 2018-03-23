@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-def main():
-	print('test')
+def main(text):
+	print(text)
 
-main()
+main('Hello Everyone')
